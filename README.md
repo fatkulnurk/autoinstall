@@ -28,4 +28,8 @@ buat 2 file pada direktori /var/cache/bind/
 lalu edit file /etc/resolv.conf
 rubah nameserver menjadi ipkamu.
 
+restart --> /etc/init.d/bind9 restart 
+
+Lalu sekarang Jalankan
+Ns lookup
 
