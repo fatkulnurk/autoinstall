@@ -8,7 +8,7 @@ Yang Perlu di install
 - dnsutils
 
 ---
-### Konfiurasi BIND9
+## Cara Install
 - Jalankan dns-bind9.sh
 - Edit named.conf.options, rubah forwaders menjadi
 
@@ -25,6 +25,7 @@ buat 2 file pada direktori /var/cache/bind/
 - db.reverse (isi DB.reverse.txt)
 - db.fatkulcom / db.fatkuledu / db.fatkulorg (isi DB.fatkul.txt)
 
+lalu edit file /etc/resolv.conf
+rubah nameserver menjadi ipkamu.
 
----
-### Konfiurasi Apache
+
