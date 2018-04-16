@@ -10,4 +10,12 @@ Yang Perlu di install
 --
 ## Cara Install
 - Jalankan dns-bind9.sh
-- lalu
+- Edit named.conf.options, rubah forwaders menjadi
+
+--
+
+202.9.85.3;
+
+202.9.85.4;
+
+--
