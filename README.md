@@ -33,3 +33,6 @@ restart --> /etc/init.d/bind9 restart
 Lalu sekarang Jalankan
 Ns lookup
 
+
+
+## Install Apache
