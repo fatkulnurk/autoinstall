@@ -2,7 +2,7 @@
 ; BIND rever data file for broadcast zone
 ;
 $TTL        604800
-@       BIND        SOA         localhost.  root.localhost. (
+@       IN        SOA         localhost.  root.localhost. (
                                         1       ; Serial
                                    604800       ; Refresh
                                     86400       ; Retry
