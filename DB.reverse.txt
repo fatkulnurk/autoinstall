@@ -10,4 +10,6 @@ $TTL        604800
                                    604800 )     ; Negative Cache TTL
 ;
 @       IN      NS      localhost.
-227     IN      PTR     www.
+227     IN      PTR     www.fatkul.com
+227     IN      PTR     www.fatkul.edu
+227     IN      PTR     www.fatkul.org
