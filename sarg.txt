@@ -1,1 +1,7 @@
+
+sudo 
+apt install sarg
+# edit 
+nano /etc/sarg/sarg.conf
+
 sudo sarg -x /etc/sarg/sarg.conf
